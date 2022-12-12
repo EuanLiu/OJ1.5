@@ -1,5 +1,5 @@
-# OnlineJudge
-Java大作业 在线评测系统
+# OnlineJudg
+在线评测系统
 
 ## 一、项目概况
 
